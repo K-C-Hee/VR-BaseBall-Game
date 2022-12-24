@@ -1,2 +1,2 @@
 # VR-BaseBall-Game
-Cabstone Desgine
+Capstone Desgine
